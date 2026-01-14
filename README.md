@@ -1,4 +1,4 @@
-# cpp-doubly-linked-list
+# spotify-artist-doubly-linked-list
 
 A doubly-linked list implementation in C++ for managing and querying a database of Spotify artists. Built to practice object-oriented design, memory management, and data structure fundamentals.
 
